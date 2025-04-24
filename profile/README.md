@@ -1,5 +1,5 @@
-<div align="center">
-    <img style="width: 40%" alt="Ribbon Logo" src="https://raw.githubusercontent.com/tiny-bow/.github/main/images/emblem.svg"/>
+<div align="right">
+    <img style="width: 20%" alt="Ribbon Logo" src="https://raw.githubusercontent.com/tiny-bow/.github/main/images/emblem.svg"/>
 </div>
 
 Ribbon is two sibling projects, inspired by a history in game development, and a deep love for high performance systems and modding.
